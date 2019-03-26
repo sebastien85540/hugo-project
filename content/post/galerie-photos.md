@@ -1,6 +1,6 @@
 +++
 date = "2019-03-25T23:38:00+00:00"
-photos = ["/uploads/galerie1.webp", "/uploads/galerie2.webp", "/uploads/galerie3.webp", "/uploads/galerie4.webp", "/uploads/galerie5.webp"]
+photos = ["/uploads/cars-975634_640.jpg", "/uploads/volkswagen-158463_640.png", "/uploads/spanner-3013135_640.jpg", "/uploads/ford-63930_640.jpg", "/uploads/buick-1400243_640.jpg"]
 title = "galerie photos"
 
 +++
