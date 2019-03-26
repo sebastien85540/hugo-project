@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AMS-Manu</title>
-    <link>http://example.org/</link>
+    <link>https://ams-manu.netlify.com/</link>
     <description>Recent content on AMS-Manu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 26 Mar 2019 11:25:22 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ams-manu.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nos services</title>
-      <link>http://example.org/post/services/</link>
+      <link>https://ams-manu.netlify.com/post/services/</link>
       <pubDate>Tue, 26 Mar 2019 11:25:22 +0100</pubDate>
       
-      <guid>http://example.org/post/services/</guid>
+      <guid>https://ams-manu.netlify.com/post/services/</guid>
       <description>#Nos services Nous faisons de la reparation de vehicules lambda, ainsi que la vente de vehicules. Cette vente est faite en directe, les renseignements se trouvent un peu plus bas dans la page. N&amp;rsquo;hésitez surtoût pas nous sommes là pour répondre à toutes vos questions.</description>
     </item>
     
     <item>
       <title>Qui sommes nous</title>
-      <link>http://example.org/post/qui-sommes-nous/</link>
+      <link>https://ams-manu.netlify.com/post/qui-sommes-nous/</link>
       <pubDate>Tue, 26 Mar 2019 11:01:25 +0100</pubDate>
       
-      <guid>http://example.org/post/qui-sommes-nous/</guid>
+      <guid>https://ams-manu.netlify.com/post/qui-sommes-nous/</guid>
       <description>#L&amp;rsquo;entreprise Elle a été fondée le 25/12/2018, suite à la demande de reparations excessive sur Le Champ Saint Père. Nous sommes une entreprise jeune et dynamique</description>
     </item>
     
     <item>
       <title>galerie photos</title>
-      <link>http://example.org/post/galerie-photos/</link>
+      <link>https://ams-manu.netlify.com/post/galerie-photos/</link>
       <pubDate>Mon, 25 Mar 2019 23:38:00 +0000</pubDate>
       
-      <guid>http://example.org/post/galerie-photos/</guid>
-      <description></description>
+      <guid>https://ams-manu.netlify.com/post/galerie-photos/</guid>
+      <description>ça ne marche pas pourtant je fais ce qu&amp;rsquo;il faut</description>
     </item>
     
     <item>
       <title>voiture 1</title>
-      <link>http://example.org/post/voiture-1/</link>
+      <link>https://ams-manu.netlify.com/post/voiture-1/</link>
       <pubDate>Sun, 24 Mar 2019 23:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/voiture-1/</guid>
+      <guid>https://ams-manu.netlify.com/post/voiture-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>example post</title>
-      <link>http://example.org/post/example-post/</link>
+      <link>https://ams-manu.netlify.com/post/example-post/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/example-post/</guid>
+      <guid>https://ams-manu.netlify.com/post/example-post/</guid>
       <description>Awesome blog post</description>
     </item>
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>http://example.org/post/2016-12-30-hello-markdown/</link>
+      <link>https://ams-manu.netlify.com/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>http://example.org/post/2016-12-30-hello-markdown/</guid>
+      <guid>https://ams-manu.netlify.com/post/2016-12-30-hello-markdown/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>http://example.org/post/2015-01-01-lorem-ipsum/</link>
+      <link>https://ams-manu.netlify.com/post/2015-01-01-lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>http://example.org/post/2015-01-01-lorem-ipsum/</guid>
+      <guid>https://ams-manu.netlify.com/post/2015-01-01-lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/login/</link>
+      <link>https://ams-manu.netlify.com/login/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/login/</guid>
+      <guid>https://ams-manu.netlify.com/login/</guid>
       <description>          Get Started   Create Account    Need Help?     </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/profile/</link>
+      <link>https://ams-manu.netlify.com/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/profile/</guid>
+      <guid>https://ams-manu.netlify.com/profile/</guid>
       <description> Follow      About me An artist of considerable range, Ryan — the name taken by Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and records all of his own music, giving it a warm, intimate feel with a solid groove structure. An artist of considerable range. My Portfolio                             </description>
     </item>
     
     <item>
       <title>Components</title>
-      <link>http://example.org/components/</link>
+      <link>https://ams-manu.netlify.com/components/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/components/</guid>
+      <guid>https://ams-manu.netlify.com/components/</guid>
       <description>Now UI Kit. A beautiful Bootstrap 4 UI kit. Yours free.  Designed by . Coded by . --          Basic Elements Buttons Pick your style
 Default Round  With Icon    Simple   Pick your size
 Small Regular Large   Pick your color
@@ -107,10 +107,10 @@ Default Primary Info Success Warning Danger Neutral   Links Default Primary Info
     
     <item>
       <title>Write the best title for your page.</title>
-      <link>http://example.org/landing/</link>
+      <link>https://ams-manu.netlify.com/landing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/landing/</guid>
+      <guid>https://ams-manu.netlify.com/landing/</guid>
       <description>Who are we? According to the National Oceanic and Atmospheric Administration, Ted, Scambos, NSIDC lead scentist, puts the potentially record low maximum sea ice extent tihs year down to low ice extent in the Pacific and a late drop in ice extent in the Barents Sea.    &#34;Over the span of the satellite record, Arctic sea ice has been declining significantly, while sea ice in the Antarctichas increased very slightly&#34;</description>
     </item>
     
