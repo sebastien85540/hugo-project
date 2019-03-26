@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "AMS-Manu"
+theme="hugo-now-ui"
+name = "Now UI"
+license = "MIT"
+licenselink = "https://github.com/cboettig/hugo-now-ui/blob/master/LICENSE.md"
+description = "An elegant open-source and mobile-first theme"
+homepage = "https://github.com/cboettig/hugo-now-ui/"
+tags = ["Bootstrap", "Bootstrap v4", "flat-ui", "Creative Tim", "Invision"]
+features = ["blog"]
+min_version = 0.52
+
+[author]
+    name = "Sebastien REYNAUD"
+    homepage = "https://carlboettiger.info/"
