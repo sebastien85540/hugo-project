@@ -12,5 +12,5 @@ features = ["blog"]
 min_version = 0.52
 
 [author]
-    name = "Sebastien REYNAUD"
+    name = "CARL boettiger"
     homepage = "https://carlboettiger.info/"
