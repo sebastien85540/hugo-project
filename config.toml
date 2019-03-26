@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ams-manu.netlify.com"
 languageCode = "fr-fr"
 title = "AMS-Manu"
 theme="hugo-now-ui"
