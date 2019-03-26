@@ -18,3 +18,5 @@ fields:
 - type: textarea
   name: text
   label: text
+pages:
+- content/post/voiture-1.md
