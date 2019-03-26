@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>galerie photos</title>
+      <link>http://example.org/post/galerie-photos/</link>
+      <pubDate>Mon, 25 Mar 2019 23:38:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/galerie-photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>voiture 1</title>
       <link>http://example.org/post/voiture-1/</link>
       <pubDate>Sun, 24 Mar 2019 23:00:00 +0000</pubDate>

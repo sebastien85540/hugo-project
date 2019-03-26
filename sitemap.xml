@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/post/galerie-photos/</loc>
+    <lastmod>2019-03-25T23:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/post/voiture-1/</loc>
     <lastmod>2019-03-24T23:00:00+00:00</lastmod>
   </url>
