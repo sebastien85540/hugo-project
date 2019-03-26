@@ -22,3 +22,5 @@ fields:
   - "/uploads/galerie3.webp"
   - "/uploads/galerie4.webp"
   - "/uploads/galerie5.webp"
+pages:
+- content/post/galerie-photos.md
