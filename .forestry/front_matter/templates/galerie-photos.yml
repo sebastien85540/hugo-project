@@ -1,14 +1,24 @@
 ---
 label: galerie photos
 hide_body: false
+display_field: photos
 fields:
 - name: title
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: galerie photos
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: 2019-03-25 23:38:00 +0000
+- type: image_gallery
+  name: photos
+  label: photos
+  default:
+  - "/uploads/galerie1.webp"
+  - "/uploads/galerie2.webp"
+  - "/uploads/galerie3.webp"
+  - "/uploads/galerie4.webp"
+  - "/uploads/galerie5.webp"
