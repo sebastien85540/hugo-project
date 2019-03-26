@@ -1,7 +1,6 @@
 ---
 label: galerie photos
-hide_body: false
-display_field: photos
+hide_body: true
 fields:
 - name: title
   label: Title
